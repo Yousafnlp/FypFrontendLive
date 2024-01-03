@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ca974537.css",
-    "main.js": "/static/js/main.a4f0d503.js",
+    "main.js": "/static/js/main.8671d0df.js",
     "static/media/Untime – Loader [gif].gif": "/static/media/Untime – Loader [gif].cd5855b40e8af1862254.gif",
     "index.html": "/index.html",
     "main.ca974537.css.map": "/static/css/main.ca974537.css.map",
-    "main.a4f0d503.js.map": "/static/js/main.a4f0d503.js.map"
+    "main.8671d0df.js.map": "/static/js/main.8671d0df.js.map"
   },
   "entrypoints": [
     "static/css/main.ca974537.css",
-    "static/js/main.a4f0d503.js"
+    "static/js/main.8671d0df.js"
   ]
 }
